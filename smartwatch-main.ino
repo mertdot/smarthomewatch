@@ -19,8 +19,8 @@
     const char* password = "8163264128";
     
     //#define BOTtoken "2106080187:AAE9yYAs3W4pR1Lp4fcPxvEdEMYqmDV-XqI"  // your Bot Token (Get from Botfather)
-    #define BOTtoken "2133355188:AAGkr2zYDVXmYrjKWwIF6BNPlhlE78smdrE" //akillisaat1
-    #define CHAT_ID "1012408056"
+    #define BOTtoken " // your Bot Token (Get from Botfather)" //akillisaat1
+    #define CHAT_ID " // your chat id"
 
     String alarmSaat,tarih,temp;
     int uzaklik=200,uzaklikSayac=0;
