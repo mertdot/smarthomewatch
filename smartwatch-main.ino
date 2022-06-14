@@ -18,7 +18,7 @@
     const char* ssid = "test";
     const char* password = "8163264128";
     
-    //#define BOTtoken "2106080187:AAE9yYAs3W4pR1Lp4fcPxvEdEMYqmDV-XqI"  // your Bot Token (Get from Botfather)
+    //#define BOTtoken "// your Bot Token (Get from Botfather)"  // your Bot Token (Get from Botfather)
     #define BOTtoken " // your Bot Token (Get from Botfather)" //akillisaat1
     #define CHAT_ID " // your chat id"
 
